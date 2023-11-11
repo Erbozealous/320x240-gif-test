@@ -1,4 +1,8 @@
- 
+Makecode project to test out the functionality(and practicality) of large-size gifs.
+All the assets here are custom images imported via text arrays. For more information, check here:
+https://forum.makecode.com/t/image-to-makecode-arcade-image-converter-again/12367
+
+
 
 
 > Open this page at [https://erbozealous.github.io/320x240-gif-test/](https://erbozealous.github.io/320x240-gif-test/)
@@ -12,7 +16,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/erbozealous/320x240-gif-test** and import
 
-## Edit this project ![Build status badge](https://github.com/erbozealous/320x240-gif-test/workflows/MakeCode/badge.svg)
+## Editing
 
 To edit this repository in MakeCode.
 
