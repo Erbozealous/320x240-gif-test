@@ -1,7 +1,7 @@
 /**
- * Makecode project to test out the functionality of custom gis and images
+ * Makecode project to test out the functionality(and practicality) of large-size gifs.
  * 
- * All the assets here are custom images imported via text arrays
+ * All the assets here are custom images imported via text arrays.
  * 
  * For more information, check here:
  * https://forum.makecode.com/t/image-to-makecode-arcade-image-converter-again/12367
